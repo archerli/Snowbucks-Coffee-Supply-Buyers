@@ -1,0 +1,15 @@
+{
+	"appname": "Snowbucks Coffee Supply Buyers",
+	"scope": "",
+	"clientid": "7A2FC33D-5194-428D-8009-BB570040D583",
+	"buyerid": "Florida",
+	"catalogid": "Florida",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
